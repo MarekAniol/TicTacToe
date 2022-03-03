@@ -1,3 +1,4 @@
+# Forst class and terminal game for learning
 class Tictactoe:
     def __init__(self):
         self.marks = [" o ", " x "]
